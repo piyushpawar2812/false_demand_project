@@ -1,0 +1,121 @@
+
+{% extends 'dashboard.html' %}
+
+{% block content %}
+
+
+
+        <!-- Main Content -->
+        <main class="col-12 col-md-12 col-lg-12 p-4 content-area">
+
+            <h3>Consumer Amount Request</h3>
+
+            <div class="card p-4 card-custom mt-3">
+
+                <!-- 🔥 FORM START -->
+                <form method="POST" enctype="multipart/form-data">
+                    {% csrf_token %}
+
+                    <!-- Consumer Number -->
+                    <label class="form-label">Enter Consumer Number</label>
+                    <input type="text" name="consumer_no"
+                           value="{{ data.consumerNo|default:'' }}"
+                           class="form-control mb-3"
+                           placeholder="Consumer Number" required />
+
+                    <!-- Fetch Button -->
+                    <button type="submit" name="fetch" class="btn btn-dark mb-4">
+                        Search
+                    </button>
+
+                    <!-- ERROR MESSAGE -->
+                    {% if error %}
+                        <div class="alert alert-danger">{{ error }}</div>
+                    {% endif %}
+
+                    <!-- Consumer Data -->
+                    {% if data %}
+<h5>Consumer Details</h5>
+
+<div class="row g-3">
+
+    <div class="col-md-4">
+        <label>Name</label>
+        <input type="text" class="form-control"
+               value="{{ data.consumerName }}" disabled>
+    </div>
+
+    <div class="col-md-3">
+        <label>Mobile</label>
+        <input type="text" class="form-control"
+               value="{{ data.primaryMobileNo }}" disabled>
+    </div>
+
+    <div class="col-md-2">
+        <label>Tariff</label>
+        <input type="text" class="form-control"
+               value="{{ data.tariffCode }}" disabled>
+    </div>
+    <div class="col-md-3">
+        <label>Location Code</label>
+        <input type="text" class="form-control"
+               value="{{ data.locationCode }}" disabled>
+    </div>
+
+    <div class="col-md-12">
+        <label>Address</label>
+        <input type="text" class="form-control"
+               value="{{ data.address1 }} {{ data.address2 }} {{ data.address3 }}" disabled>
+    </div>
+
+    
+
+    {% comment %} <div class="col-md-3">
+        <label>Status</label>
+        <input type="text" class="form-control"
+               value="{{ data.status }}" disabled>
+    </div> {% endcomment %}
+
+</div>
+
+                    <hr class="my-4" />
+
+                    <!-- Hidden Fields (IMPORTANT) -->
+                    <input type="hidden" name="name" value="{{ data.consumerName }}">
+                    <input type="hidden" name="consumerNo" value="{{ data.consumerNo }}">
+                    <input type="hidden" name="mobile" value="{{ data.primaryMobileNo }}">
+                    <input type="hidden" name="address" value="{{ data.address1 }} {{ data.address2 }} {{ data.address3 }}">
+                    <input type="hidden" name="city" value="">
+                    <input type="hidden" name="state" value="">
+                     <input type="hidden" name="terrif_code" value="{{data.tariffCode}}">
+                    <input type="hidden" name="location_code" value="{{ data.locationCode }}">
+
+                    <!-- Amount -->
+                    <label class="form-label">Requested Amount</label>
+                    <input type="number" name="amount"
+                           class="form-control mb-3"
+                           placeholder="Enter Amount" required />
+
+                    <!-- File Upload -->
+                    <label class="form-label">Upload Document</label>
+                    <input type="file" name="document"
+                           class="form-control mb-4" required />
+                           
+                    <!-- Submit -->
+                    <button type="submit" name="submit"
+                            class="btn btn-success w-100">
+                        Submit Request
+                    </button>
+
+                    {% endif %}
+                </form>
+                {% if success %}
+<div class="alert alert-success">{{ success }}</div>
+{% endif %}
+                <!-- 🔥 FORM END -->
+
+            </div>
+
+        </main>
+    </div>
+</div>{% endblock %}

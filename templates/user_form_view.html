@@ -1,0 +1,258 @@
+
+{% extends 'dashboard.html' %}
+
+{% block content %}
+
+
+
+        <!-- Main Content -->
+        <main class="col-12 col-md-12 col-lg-12 p-4 content-area">
+
+            <h3>Consumer Details </h3>
+
+            <div class="card p-4 card-custom mt-3">
+
+                <!-- 🔥 FORM START -->
+                
+                   
+
+                    <!-- Consumer Data -->
+                    {% if data %}
+<h5>Consumer Details</h5>
+
+
+<main class="col-12 p-4 content-area">
+
+    <h3>Consumer Details</h3>
+
+    <div class="card p-4 mt-3">
+
+        {% if data %}
+
+        <div class="row g-3">
+
+                    <div class="col-md-3">
+                <label>Consumer Number</label>
+                <input type="text" class="form-control" value="{{ data.consumer_no}}" disabled>
+            </div>
+
+            <div class="col-md-6">
+                <label>Name</label>
+                <input type="text" class="form-control" value="{{ data.name}}" disabled>
+            </div>
+
+            <div class="col-md-3">
+                <label>Mobile</label>
+                <input type="text" class="form-control" value="{{ data.mobile }}" disabled>
+            </div>
+
+            <div class="col-md-3">
+                <label>Tariff</label>
+                <input type="text" class="form-control" value="{{ data.terrif_code }}" disabled>
+            </div>
+
+            <div class="col-md-3">
+                <label>Location Code</label>
+                <input type="text" class="form-control" value="{{ data.location_code }}" disabled>
+            </div>
+
+            <div class="col-md-3">
+                <label>Requested Amount</label>
+                <input type="text" class="form-control"
+                       value="{{ data.requested_amount}} " disabled>
+            </div>
+
+            <div class="col-md-12">
+                <label>Address</label>
+                <input type="text" class="form-control"
+                       value="{{ data.address}} " disabled>
+            </div>
+
+            
+
+            <!-- Document -->
+            <div class="col-md-12 mb-3">
+                {% if data.document %}
+                    <a href="{{ data.document.url }}" class="btn btn-outline-dark btn-sm" target="_blank">
+                        View Uploaded Document
+                    </a>
+                {% else %}
+                    <span class="text-muted">No file uploaded</span>
+                {% endif %}
+            </div>
+
+        </div>
+
+        {% else %}
+            <p>No data found</p>
+        {% endif %}
+
+    </div>
+
+</main>
+
+
+    
+
+    {% comment %} <div class="col-md-3">
+        <label>Status</label>
+        <input type="text" class="form-control"
+               value="{{ data.status }}" disabled>
+    </div> {% endcomment %}
+
+</div>
+{% if already_submitted %}
+
+    <!-- 🔒 SHOW ONLY RESULT -->
+    <div class="alert alert-info text-center mt-4">
+        <strong>You have already submitted your action</strong><br><br>
+<b>Decision, Remark & Document:</b><br><br>
+
+{% if data.cgm_status %}
+    <b>CGM:</b>
+    {% if data.cgm_status == 1 %}
+        <span class="badge bg-success">Approved</span>
+    {% elif data.cgm_status == 2 %}
+        <span class="badge bg-danger">Rejected</span>
+    {% elif data.cgm_status == 3 %}
+        <span class="badge bg-dark">Reverted</span>
+    {% endif %}
+    <br>{{ data.cgm_remark }}
+    {% if data.cgm_doc %}
+        <br><a href="{{ data.cgm_doc.url }}" target="_blank" class="btn btn-sm btn-primary mt-1">View Document</a>
+    {% endif %}
+    <br><br>
+{% endif %}
+
+{% if data.gm_status %}
+    <b>GM:</b>
+    {% if data.gm_status == 1 %}
+        <span class="badge bg-success">Approved</span>
+    {% elif data.gm_status == 2 %}
+        <span class="badge bg-danger">Rejected</span>
+    {% elif data.gm_status == 3 %}
+        <span class="badge bg-dark">Reverted</span>
+    {% endif %}
+    <br>{{ data.gm_remark }}
+    {% if data.gm_doc %}
+        <br><a href="{{ data.gm_doc.url }}" target="_blank" class="btn btn-sm btn-primary mt-1">View Document</a>
+    {% endif %}
+    <br><br>
+{% endif %}
+
+{% if data.dgm_onm_status %}
+    <b>DGM ONM:</b>
+    {% if data.dgm_onm_status == 1 %}
+        <span class="badge bg-success">Approved</span>
+    {% elif data.dgm_onm_status == 2 %}
+        <span class="badge bg-danger">Rejected</span>
+    {% elif data.dgm_onm_status == 3 %}
+        <span class="badge bg-dark">Reverted</span>
+    {% endif %}
+    <br>{{ data.dgm_onm_remark }}
+    {% if data.dgm_onm_doc %}
+        <br><a href="{{ data.dgm_onm_doc.url }}" target="_blank" class="btn btn-sm btn-primary mt-1">View Document</a>
+    {% endif %}
+    <br><br>
+{% endif %}
+
+{% if data.dgm_vig_status %}
+    <b>DGM VIG:</b>
+    {% if data.dgm_vig_status == 1 %}
+        <span class="badge bg-success">Approved</span>
+    {% elif data.dgm_vig_status == 2 %}
+        <span class="badge bg-danger">Rejected</span>
+    {% elif data.dgm_vig_status == 3 %}
+        <span class="badge bg-dark">Reverted</span>
+    {% endif %}
+    <br>{{ data.dgm_vig_remark }}
+    {% if data.dgm_vig_doc %}
+        <br><a href="{{ data.dgm_vig_doc.url }}" target="_blank" class="btn btn-sm btn-primary mt-1">View Document</a>
+    {% endif %}
+    <br><br>
+{% endif %}
+
+{% if data.zonal_officer_status %}
+    <b>Zonal Officer:</b>
+    {% if data.zonal_officer_status == 1 %}
+        <span class="badge bg-success">Approved</span>
+    {% elif data.zonal_officer_status == 2 %}
+        <span class="badge bg-danger">Rejected</span>
+    {% elif data.zonal_officer_status == 3 %}
+        <span class="badge bg-dark">Reverted</span>
+    {% endif %}
+    <br>{{ data.zonal_officer_remark }}
+    {% if data.zonal_officer_doc %}
+        <br><a href="{{ data.zonal_officer_doc.url }}" target="_blank" class="btn btn-sm btn-primary mt-1">View Document</a>
+    {% endif %}
+    <br><br>
+{% endif %}
+
+{% if data.ao_status %}
+    <b>AO:</b>
+    {% if data.ao_status == 1 %}
+        <span class="badge bg-success">Approved</span>
+    {% elif data.ao_status == 2 %}
+        <span class="badge bg-danger">Rejected</span>
+    {% elif data.ao_status == 3 %}
+        <span class="badge bg-dark">Reverted</span>
+    {% endif %}
+    <br>{{ data.ao_remark }}
+    {% if data.ao_doc %}
+        <br><a href="{{ data.ao_doc.url }}" target="_blank" class="btn btn-sm btn-primary mt-1">View Document</a>
+    {% endif %}
+    <br><br>
+{% endif %}
+
+{% if not data.cgm_status and not data.gm_status and not data.dgm_onm_status and not data.dgm_vig_status and not data.zonal_officer_status and not data.ao_status %}
+    No Data Available
+{% endif %}
+
+<!----end of reform submit--->
+
+
+{% else %}
+
+    <!-- ✅ SHOW FORM -->
+    <form method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+
+        <div class="card mt-4 shadow-sm">
+            <div class="card-body">
+
+                <div class="row">
+
+                    <div class="col-md-4 mb-3">
+                        <label>Status</label>
+                        <select name="status" class="form-control" required>
+                            <option value="">-select-</option>
+                            <option value="1">Accept</option>
+                            <option value="2">Reject</option>
+                            <option value="3">Revert</option>
+                        </select>
+                    </div>
+
+                    <div class="col-md-8 mb-3">
+                        <label>Remark</label>
+                        <input type="text" name="remark" class="form-control" required>
+                    </div>
+
+                    <div class="col-md-12 mb-3">
+                        <label>Upload Document</label>
+                        <input type="file" name="upload_doc" class="form-control" required>
+                    </div>
+
+                    <div class="col-md-12 text-center">
+                        <button class="btn btn-dark">Submit</button>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </form>
+
+{% endif %}
+{% endif %}
+              
+              {% endblock %}

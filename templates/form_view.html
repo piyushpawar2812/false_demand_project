@@ -1,0 +1,254 @@
+
+{% extends 'dashboard.html' %}
+
+{% block content %}
+
+
+
+        <!-- Main Content -->
+        <main class="col-12 col-md-12 col-lg-12 p-4 content-area">
+
+            <h3>Consumer Details</h3>
+
+            <div class="card p-4 card-custom mt-3">
+
+                <!-- 🔥 FORM START -->
+                <form method="POST" enctype="multipart/form-data">
+                   
+
+                    <!-- Consumer Data -->
+                    {% if data %}
+<h5>Consumer Details</h5>
+
+
+<main class="col-12 p-4 content-area">
+
+    <h3>Consumer Details</h3>
+
+    <div class="card p-4 mt-3">
+
+        {% if data %}
+
+        <div class="row g-3">
+
+                    <div class="col-md-3">
+                <label>Consumer Number</label>
+                <input type="text" class="form-control" value="{{ data.consumer_no}}" disabled>
+            </div>
+
+            <div class="col-md-8">
+                <label>Name</label>
+                <input type="text" class="form-control" value="{{ data.name}}" disabled>
+            </div>
+
+            <div class="col-md-3">
+                <label>Mobile</label>
+                <input type="text" class="form-control" value="{{ data.mobile }}" disabled>
+            </div>
+
+            <div class="col-md-2">
+                <label>Tariff</label>
+                <input type="text" class="form-control" value="{{ data.terrif_code }}" disabled>
+            </div>
+
+            <div class="col-md-3">
+                <label>Location Code</label>
+                <input type="text" class="form-control" value="{{ data.location_code }}" disabled>
+            </div>
+
+            <div class="col-md-12">
+                <label>Address</label>
+                <input type="text" class="form-control"
+                       value="{{ data.address}} " disabled>
+            </div>
+
+            <div class="col-md-3">
+                <label>Requested Amount</label>
+                <input type="text" class="form-control"
+                       value="{{ data.requested_amount}} " disabled>
+            </div>
+
+            <!-- Document -->
+            <div class="col-md-12 mb-3">
+                {% if data.document %}
+                    <a href="{{ data.document.url }}" class="btn btn-outline-dark btn-sm" target="_blank">
+                        View Uploaded Document
+                    </a>
+                {% else %}
+                    <span class="text-muted">No file uploaded</span>
+                {% endif %}
+            </div>
+
+        </div>
+
+        {% else %}
+            <p>No data found</p>
+        {% endif %}
+
+    </div>
+
+</main>
+
+
+    
+
+    {% comment %} <div class="col-md-3">
+        <label>Status</label>
+        <input type="text" class="form-control"
+               value="{{ data.status }}" disabled>
+    </div> {% endcomment %}
+
+</div>
+
+                    <hr class="my-4" />
+
+                    <!-- Hidden Fields (IMPORTANT) -->
+                    <input type="hidden" name="name" value="{{ data.consumerName }}">
+                    <input type="hidden" name="consumerNo" value="{{ data.consumerNo }}">
+                    <input type="hidden" name="mobile" value="{{ data.primaryMobileNo }}">
+                    <input type="hidden" name="address" value="{{ data.address1 }} {{ data.address2 }} {{ data.address3 }}">
+                    <input type="hidden" name="city" value="">
+                    <input type="hidden" name="state" value="">
+                    <input type="hidden" name="location_code" value="{{ data.locationCode }}">
+                    <input type="hidden" name="requested_amount" value="{{ data.requested_amount }}">
+
+                    <!-- Amount -->
+
+                    <!-- File Upload -->
+                           
+                      <div class="card mt-4 shadow-sm">
+    <div class="card-header bg-primary text-white">
+        <h5 class="mb-0">Request Review – Committee Members</h5>
+    </div>
+
+    <div class="card-body">
+
+        <!-- 🔹 CGM / GM -->
+        <h6 class="fw-bold mt-3">CGM / GM Status</h6>
+        <div class="row">
+            <div class="col-md-12 mb-3">
+                <label>Status</label>- 
+                {% if data.cgm_status %}
+                        {% if data.cgm_status == 1 %}Approved{% elif data.cgm_status == 2 %}Rejected{% elif data.cgm_status == 3 %}Reverted{% endif %}
+                    {% elif data.gm_status %}
+                        {% if data.gm_status == 1 %}Approved{% elif data.gm_status == 2 %}Rejected{% elif data.gm_status == 3 %}Reverted{% endif %}
+                    {% else %}
+                        Pending
+                    {% endif %}
+                    
+            </div>
+            <br>
+            <div class="col-md-12 mb-3">
+                <label>Remarks</label>-
+{% if data.cgm_remark %}
+{{ data.cgm_remark }}
+{% elif data.gm_remark %}
+{{ data.gm_remark }}
+{% else %}-{% endif %}
+            </div>
+
+            <div class="col-md-12 mb-3">
+                <label>Document</label>
+                {% if data.cgm_doc %}
+                    <a href="{{ data.cgm_doc.url }}" target="_blank" class="btn btn-sm btn-primary">View Document</a>
+                {% elif data.gm_doc %}
+                    <a href="{{ data.gm_doc.url }}" target="_blank" class="btn btn-sm btn-primary">View Document</a>
+                {% else %}
+                    <span class="text-muted">No Document</span>
+                {% endif %}
+            </div>
+        </div>
+
+        <hr>
+
+        <!-- 🔹 AO / Zonal Officer -->
+        <h6 class="fw-bold mt-3">AO / Zonal Officer Status</h6>
+        <div class="row">
+            <div class="col-md-12 mb-3">
+                <label>Status</label>- 
+                    {% if data.zonal_officer_status %}
+                        {% if data.zonal_officer_status == 1 %}Approved{% elif data.zonal_officer_status == 2 %}Rejected{% elif data.zonal_officer_status == 3 %}Reverted{% endif %}
+                    {% elif data.ao_status %}
+                        {% if data.ao_status == 1 %}Approved{% elif data.ao_status == 2 %}Rejected{% elif data.ao_status == 3 %}Reverted{% endif %}
+                    {% else %}
+                        Pending
+                    {% endif %}
+                    
+            </div>
+
+            <div class="col-md-12 mb-3">
+                <label>Remarks</label>
+{% if data.zonal_officer_remark %}
+{{ data.zonal_officer_remark }}
+{% elif data.ao_remark %}
+{{ data.ao_remark }}
+{% else %}-{% endif %}
+            </div>
+
+            <div class="col-md-12 mb-3">
+                <label>Document</label>
+                {% if data.zonal_officer_doc %}
+                    <a href="{{ data.zonal_officer_doc.url }}" target="_blank" class="btn btn-sm btn-dark">View Document</a>
+                {% elif data.ao_doc %}
+                    <a href="{{ data.ao_doc.url }}" target="_blank" class="btn btn-sm btn-primary">View Document</a>
+                {% else %}
+                    <span class="text-muted">No Document</span>
+                {% endif %}
+            </div>
+        </div>
+
+        <hr>
+
+        <!-- 🔹 DGM O&M -->
+        <h6 class="fw-bold mt-3">DGM O&M Status</h6>
+        <div class="row">
+            <div class="col-md-12 mb-3">
+            <label>Status</label>- {% if data.dgm_onm_status == 1 %}Approved{% elif data.dgm_onm_status == 2 %}Rejected{% elif data.dgm_onm_status == 3 %}Reverted{% else %}Pending{% endif %}
+            </div>
+
+            <div class="col-md-12 mb-3">
+                Remark{{ data.dgm_onm_remark|default:"-" }}
+            </div>
+            <div class="col-md-12 mb-3">
+             Document - 
+            {% if data.dgm_onm_doc %}
+            
+           
+                <a href="{{ data.dgm_onm_doc.url }}" target="_blank" class="btn btn-sm btn-primary">View Document</a>
+            
+            {% endif %}
+            </div>
+        </div>
+
+        <hr>
+
+        <!-- 🔹 DGM Vigilance -->
+        <h6 class="fw-bold mt-3">DGM Vigilance Status</h6>
+        <div class="row">
+            <div class="col-md-12 mb-3">
+             <label>Status</label>-
+                {% if data.dgm_vig_status == 1 %}Approved{% elif data.dgm_vig_status == 2 %}Rejected{% elif data.dgm_vig_status == 3 %}Reverted{% else %}Pending{% endif %}
+            </div>
+
+            <div class="col-md-12 mb-3">
+                 <label>Remark </label>-{{ data.dgm_vig_remark|default:"-" }}
+            </div>
+            <div class="col-md-12 mb-3">
+            <label>Document</label>-
+            {% if data.dgm_vig_doc %}
+            
+             
+                <a href="{{ data.dgm_vig_doc.url }}" target="_blank" class="btn btn-sm btn-primary">View Document</a>
+            
+            {% endif %}
+            </div>
+        </div>
+
+    </div>
+</div>
+
+                    <!-- Submit -->
+
+                    {% endif %}
+                </form>
+                {% endblock %}

@@ -1,0 +1,388 @@
+Circle Name,Division Name,Name of Zone,id,code,name,division_id,short_code,address,phone_no,id,code,name,circle_id,id,code,name,region_id
+Harda (O&M),Harda_South,Kartana,562,2414444,Kartana,106,KAA,Kartana,1912,106,2444900,Harda_South,33,33,2441000,Harda (O&M),3
+Harda (O&M),Harda_South,Rehatgaon,565,2414436,Rehatgaon,106,REH,Rehatgaon,1912,106,2444900,Harda_South,33,33,2441000,Harda (O&M),3
+Harda (O&M),Harda_South,Sirali,566,2414440,Sirali,106,SIR,Sirali,1912,106,2444900,Harda_South,33,33,2441000,Harda (O&M),3
+Harda (O&M),Harda_South,Timarni,567,2414441,Timarni,106,TIM,Timarni,1912,106,2444900,Harda_South,33,33,2441000,Harda (O&M),3
+Rajgarh (O&M),Zeerapur,Machalpur,805,2323708,Machalpur,105,MCH,Machalpur,1912,105,384600,Zeerapur,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Zeerapur,Zeerapur,806,2323741,Zeerapur,105,ZEA,Zeerapur,1912,105,384600,Zeerapur,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Zeerapur,Zeerapur,807,2323706,Zeerapur,105,ZEE,Zeerapur,1912,105,384600,Zeerapur,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Zeerapur,Zeerapur-I,824,2303842,Zeerapur-I,105,ZEB,Zeerapur_I,1912,105,384600,Zeerapur,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Zeerapur,Chhapikheda,800,2323715,Chhapikheda,105,CHH,Chhapikheda,1912,105,384600,Zeerapur,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Zeerapur,Chhapikheda,801,2323733,Chhapikheda,105,CHP,Chhapikheda,1912,105,384600,Zeerapur,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Zeerapur,Khilchipur,802,2323734,Khilchipur,105,KDP,Khilchipur,1912,105,384600,Zeerapur,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Zeerapur,Khilchipur,803,2323704,Khilchipur,105,KIP,Khilchipur,1912,105,384600,Zeerapur,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Zeerapur,Machalpur,804,2323736,Machalpur,105,MCD,Machalpur,1912,105,384600,Zeerapur,23,23,2531200,Rajgarh (O&M),3
+Narmadapuram (O&M),Sohagpur,Sohagpur (Town),799,2414682,Sohagpur (Town),104,SOU,Sohagpur (Town),1912,104,2454800,Sohagpur,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Sohagpur,Sohagpur (Rural),798,2414665,Sohagpur (Rural),104,SAS,Sohagpur (Rural),1912,104,2454800,Sohagpur,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Sohagpur,Shobhapur,797,2414667,Shobhapur,104,SHO,Shobhapur,1912,104,2454800,Sohagpur,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Sohagpur,Semari HCD,796,2414668,Semari HCD,104,SCD,Semari HCD,1912,104,2454800,Sohagpur,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Sohagpur,Ari,794,2414551,Ari,104,ARI,Ari,1912,104,2454800,Sohagpur,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Sohagpur,Makhan Nagar,795,2414552,Makhan Nagar,104,BAB,Makhan Nagar,1912,104,2454800,Sohagpur,19,19,2451000,Narmadapuram (O&M),3
+Shivpuri (O&M),Shivpuri-2,Rannod,793,2384740,Rannod,103,RAN,Rannod,1912,103,384700,Shivpuri-2,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),Shivpuri-2,Narwar,792,2384732,Narwar,103,NRW,Narwar,1912,103,384700,Shivpuri-2,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),Shivpuri-2,Magroni,791,2384738,Magroni,103,MAG,Magroni,1912,103,384700,Shivpuri-2,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),Shivpuri-2,Karera Urban,790,2384720,Karera Urban,103,KVR,Karera Urban,1912,103,384700,Shivpuri-2,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),Shivpuri-2,Khatora,789,2384724,Khatora,103,KHT,Khatora,1912,103,384700,Shivpuri-2,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),Shivpuri-2,Kheraghat,788,2384726,Kheraghat,103,KEG,Kheraghat,1912,103,384700,Shivpuri-2,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),Shivpuri-2,Kolaras (Urban),787,2384737,Kolaras (Urban),103,KAU,Kolaras (Urban),1912,103,384700,Shivpuri-2,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),Shivpuri-2,Kolaras (Rural),786,2384728,Kolaras (Rural),103,KAR,Kolaras (Rural),1912,103,384700,Shivpuri-2,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),Shivpuri-2,Dinara,785,2384713,Dinara,103,DNA,Dinara,1912,103,384700,Shivpuri-2,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),Shivpuri-2,Badarwas,784,2384705,Badarwas,103,BAD,Badarwas,1912,103,384700,Shivpuri-2,28,28,2599500,Shivpuri (O&M),4
+Sheopur (O&M),Sheopur (North),Vijaypur-II,782,2385008,Vijaypur-II,102,VII,Vijaypur-II,1912,102,605100,Sheopur (North),21,21,2601000,Sheopur (O&M),4
+Sheopur (O&M),Sheopur (North),Vijaypur-I,783,2385007,Vijaypur-I,102,VIJ,Vijaypur-I,1912,102,605100,Sheopur (North),21,21,2601000,Sheopur (O&M),4
+Sheopur (O&M),Sheopur (North),Veerpur,781,2385009,Veerpur,102,VEE,Veerpur,1912,102,605100,Sheopur (North),21,21,2601000,Sheopur (O&M),4
+Sheopur (O&M),Sheopur (North),Soinkala,780,2385005,Soinkala,102,SOI,Soinkala,1912,102,605100,Sheopur (North),21,21,2601000,Sheopur (O&M),4
+Sheopur (O&M),Sheopur (North),Raghunathpur,779,2605109,Raghunathpur,102,RGT,Raghunathpur,1912,102,605100,Sheopur (North),21,21,2601000,Sheopur (O&M),4
+Sheopur (O&M),Sheopur (North),Gaswani,778,2385010,Gaswani,102,GAW,Gaswani,1912,102,605100,Sheopur (North),21,21,2601000,Sheopur (O&M),4
+Sheopur (O&M),Sheopur (North),Dhoti,777,2605102,Dhoti,102,DOT,Dhoti,1912,102,605100,Sheopur (North),21,21,2601000,Sheopur (O&M),4
+Sheopur (O&M),Sheopur (North),Dhoder,776,2605105,Dhoder,102,DOD,Dhoder,1912,102,605100,Sheopur (North),21,21,2601000,Sheopur (O&M),4
+Sheopur (O&M),Sheopur (North),BHOGI KA TIRAHA,775,2605104,BHOGI KA TIRAHA,102,BKT,BHOGI KA TIRAHA,1912,102,605100,Sheopur (North),21,21,2601000,Sheopur (O&M),4
+Datia (O&M),Seondha,Tharet (Rural),774,2394460,Tharet (Rural),101,THT,Tharet (Rural),1912,101,2354700,Seondha,29,29,2351000,Datia (O&M),4
+Datia (O&M),Seondha,Seondha (U & R),773,2394410,Seondha (U & R),101,SUR,Seondha (U & R),1912,101,2354700,Seondha,29,29,2351000,Datia (O&M),4
+Datia (O&M),Seondha,Salon (Rural),772,2394409,Salon (Rural),101,SAO,Salon (Rural),1912,101,2354700,Seondha,29,29,2351000,Datia (O&M),4
+Datia (O&M),Seondha,Indergarh-1,771,2394430,Indergarh-1,101,INI,Indergarh-1,1912,101,2354700,Seondha,29,29,2351000,Datia (O&M),4
+Datia (O&M),Seondha,Indergarh-2,770,2394431,Indergarh-2,101,IND,Indergarh-2,1912,101,2354700,Seondha,29,29,2351000,Datia (O&M),4
+Datia (O&M),Seondha,Bhander(Rural),769,2394414,Bhander(Rural),101,BAZ,Bhander(Rural),1912,101,2354700,Seondha,29,29,2351000,Datia (O&M),4
+Rajgarh (O&M),Rajgarh,Rajgarh (Town),768,2323739,Rajgarh (Town),100,RAU,Rajgarh (Town),1912,100,323700,Rajgarh,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Rajgarh,Rajgarh (Rural),767,2323740,Rajgarh (Rural),100,RAR,Rajgarh (Rural),1912,100,323700,Rajgarh,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Rajgarh,Pachore (Town),766,2323737,Pachore (Town),100,PAU,Pachore (Town),1912,100,323700,Rajgarh,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Rajgarh,Pachore (Rural),765,2323738,Pachore (Rural),100,PAS,Pachore (Rural),1912,100,323700,Rajgarh,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Rajgarh,Khujner,764,2323735,Khujner,100,KNE,Khujner,1912,100,323700,Rajgarh,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Rajgarh,Khujner,763,2323713,Khujner,100,KHJ,Khujner,1912,100,323700,Rajgarh,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Rajgarh,Khilchipur-II,812,2323834,Khilchipur-II,100,KHI,Khilchipur-II,1912,100,323700,Rajgarh,23,23,2531200,Rajgarh (O&M),3
+Shivpuri (O&M),Pichhore,Pichhore Urban,762,2384836,Pichhore Urban,99,PIU,Pichhore Urban,1912,99,384800,Pichhore,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),Pichhore,Pichhore (Rural),761,2384801,Pichhore (Rural),99,PIR,Pichhore (Rural),1912,99,384800,Pichhore,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),Pichhore,Khaniyadhana (Urban),760,2384844,Khaniyadhana (Urban),99,KNU,Khaniyadhana (Urban),1912,99,384800,Pichhore,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),Pichhore,Khaniyadhana (Rural),759,2384804,Khaniyadhana (Rural),99,KNR,Khaniyadhana (Rural),1912,99,384800,Pichhore,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),Pichhore,Khod,758,2384802,Khod,99,KDO,Khod,1912,99,384800,Pichhore,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),Pichhore,Bhonti,757,2384803,Bhonti,99,BON,Bhonti,1912,99,384800,Pichhore,28,28,2599500,Shivpuri (O&M),4
+Raisen (O&M),Obedullaganj,Obedullaganj,756,2325055,Obedullaganj,98,OBD,Obedullaganj,1912,98,325000,Obedullaganj,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Obedullaganj,Mandideep (Rural),755,2325004,Mandideep (Rural),98,MDR,Mandideep (Rural),1912,98,325000,Obedullaganj,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Obedullaganj,Goharganj,754,2325020,Goharganj,98,GAH,Goharganj,1912,98,325000,Obedullaganj,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Obedullaganj,Chiklod,753,2325003,Chiklod,98,CHK,Chiklod,1912,98,325000,Obedullaganj,24,24,2550000,Raisen (O&M),3
+Bhopal (O&M),Nasrullaganj,GopalPur,813,2334801,GopalPur,97,GOP,GopalPur,1912,97,324800,Nasrullaganj,18,18,2330000,Bhopal (O&M),3
+Bhopal (O&M),Nasrullaganj,Nasrullaganj,752,2324845,Nasrullaganj,97,NAS,Nasrullaganj,1912,97,324800,Nasrullaganj,18,18,2330000,Bhopal (O&M),3
+Bhopal (O&M),Nasrullaganj,Ladkui,751,2324832,Ladkui,97,LAD,Ladkui,1912,97,324800,Nasrullaganj,18,18,2330000,Bhopal (O&M),3
+Rajgarh (O&M),Narsinghgarh,Narsingh Garh (Urban),748,2574528,Narsingh Garh (Urban),96,NGU,Narsingh Garh (Urban),1912,96,574500,Narsinghgarh,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Narsinghgarh,Narsingh Garh (Rural),747,2574527,Narsingh Garh (Rural),96,NGR,Narsingh Garh (Rural),1912,96,574500,Narsinghgarh,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Narsinghgarh,Jhadla,745,2574530,Jhadla,96,JAD,Jhadla,1912,96,574500,Narsinghgarh,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Narsinghgarh,Gadiya,744,2574524,Gadiya,96,GAD,Gadiya,1912,96,574500,Narsinghgarh,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Narsinghgarh,Eklera,743,2574525,Eklera,96,EKL,Eklera,1912,96,574500,Narsinghgarh,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Narsinghgarh,Boda,742,2574523,Boda,96,BOD,Boda_Urban,1912,96,574500,Narsinghgarh,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Narsinghgarh,Talen,750,2574529,Talen,96,TAL,Talen_Urban,1912,96,574500,Narsinghgarh,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Narsinghgarh,Boda_R,741,2574545,Boda_R,96,BDZ,Boda_Rural,1912,96,574500,Narsinghgarh,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Narsinghgarh,Kurawar,746,2574526,Kurawar,96,KRS,Kurawar,1912,96,574500,Narsinghgarh,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),Narsinghgarh,Talen_R,749,2574547,Talen_R,96,TAD,Talen_Rural,1912,96,574500,Narsinghgarh,23,23,2531200,Rajgarh (O&M),3
+ASHOK NAGAR (O&M),Mungawali,Piprai,740,2384303,Piprai,95,PIP,Piprai,1912,95,384300,Mungawali,32,32,2251000,ASHOK NAGAR (O&M),4
+ASHOK NAGAR (O&M),Mungawali,Mungaoli,739,2384304,Mungaoli,95,MGA,Mungaoli,1912,95,384300,Mungawali,32,32,2251000,ASHOK NAGAR (O&M),4
+ASHOK NAGAR (O&M),Mungawali,Meerkabad,738,2384302,Meerkabad,95,MEE,Meerkabad,1912,95,384300,Mungawali,32,32,2251000,ASHOK NAGAR (O&M),4
+ASHOK NAGAR (O&M),Mungawali,Bahadurpur,737,2384301,Bahadurpur,95,BAA,Bahadurpur,1912,95,384300,Mungawali,32,32,2251000,ASHOK NAGAR (O&M),4
+Betul (O&M),Multai,Sai Kheda,736,2414889,Sai Kheda,94,SIK,Sai Kheda,1912,94,414800,Multai,16,16,2299500,Betul (O&M),3
+Betul (O&M),Multai,Rai Amla,735,2414888,Rai Amla,94,RAI,Rai Amla,1912,94,414800,Multai,16,16,2299500,Betul (O&M),3
+Betul (O&M),Multai,Prabhat Pattan,734,2414887,Prabhat Pattan,94,PPT,Prabhat Pattan,1912,94,414800,Multai,16,16,2299500,Betul (O&M),3
+Betul (O&M),Multai,Multai (Town),733,2414886,Multai (Town),94,MUU,Multai (Town),1912,94,414800,Multai,16,16,2299500,Betul (O&M),3
+Betul (O&M),Multai,Multai (Rural),732,2414891,Multai (Rural),94,MUR,Multai (Rural),1912,94,414800,Multai,16,16,2299500,Betul (O&M),3
+Betul (O&M),Multai,Masod,731,2414885,Masod,94,MSD,Masod,1912,94,414800,Multai,16,16,2299500,Betul (O&M),3
+Betul (O&M),Multai,Joulkheda,730,2414890,Joulkheda,94,JOU,Joulkheda,1912,94,414800,Multai,16,16,2299500,Betul (O&M),3
+Betul (O&M),Multai,Ghat Biroli,729,2414892,Ghat Biroli,94,GBI,Ghat Biroli,1912,94,414800,Multai,16,16,2299500,Betul (O&M),3
+Betul (O&M),Multai,Dunava,728,2414884,Dunava,94,DUN,Dunava,1912,94,414800,Multai,16,16,2299500,Betul (O&M),3
+Betul (O&M),Multai,Bisnoor,727,2414893,Bisnoor,94,BNR,Bisnoor,1912,94,414800,Multai,16,16,2299500,Betul (O&M),3
+Morena (O&M),Morena-2,Sumaoli,726,2484905,Sumaoli,93,SUM,Sumaoli,1912,93,484900,Morena-2,27,27,2501000,Morena (O&M),4
+Morena (O&M),Morena-2,Noorabad,725,2484904,Noorabad,93,NOO,Noorabad,1912,93,484900,Morena-2,27,27,2501000,Morena (O&M),4
+Morena (O&M),Morena-2,Jigni,724,2484902,Jigni,93,JIG,Jigni,1912,93,484900,Morena-2,27,27,2501000,Morena (O&M),4
+Morena (O&M),Morena-2,Hetampur,723,2484903,Hetampur,93,HEM,Hetampur,1912,93,484900,Morena-2,27,27,2501000,Morena (O&M),4
+Morena (O&M),Morena-2,Banmore,722,2484901,Banmore,93,BAE,Banmore,1912,93,484900,Morena-2,27,27,2501000,Morena (O&M),4
+Morena (O&M),Morena-2,Bagchini,721,2484906,Bagchini,93,BAC,Bagchini,1912,93,484900,Morena-2,27,27,2501000,Morena (O&M),4
+Bhind (O&M),Mehgaon,Mehgaon,720,2484301,Mehgaon,92,MEG,Mehgaon,1912,92,2284300,Mehgaon,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),Mehgaon,GORMI,719,2484303,GORMI,92,GRM,GORMI,1912,92,2284300,Mehgaon,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),Mehgaon,BARHAD,718,2484305,BARHAD,92,BAH,BARHAD,1912,92,2284300,Mehgaon,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),Mehgaon,Amayan,717,2484304,Amayan,92,AMA,Amayan,1912,92,2284300,Mehgaon,25,25,2289500,Bhind (O&M),4
+Gwalior (O&M),Malanpur,Malanpur,716,2394801,Malanpur,91,MAA,Malanpur,1912,91,394800,Malanpur,26,26,2401000,Gwalior (O&M),4
+Bhind (O&M),Lahar,Ron,715,2484805,Ron,90,RON,Ron,1912,90,2284800,Lahar,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),Lahar,Mihona,714,2484806,Mihona,90,MIH,Mihona,1912,90,2284800,Lahar,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),Lahar,Lahar,713,2484801,Lahar,90,LAH,Lahar,1912,90,2284800,Lahar,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),Lahar,Daboh,712,2484804,Daboh,90,DBO,Daboh,1912,90,2284800,Lahar,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),Lahar,Ashwar ,711,2484802,Ashwar ,90,ASH,Ashwar ,1912,90,2284800,Lahar,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),Lahar,Alampur,710,2484803,Alampur,90,ALM,Alampur,1912,90,2284800,Lahar,25,25,2289500,Bhind (O&M),4
+Gwalior (O&M),Gwalior O&M,Motijheel_Urban,817,2394501,Motijheel_Urban,89,MUZ,Motijheel_urban,1912,89,394500,Gwalior O&M,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),Gwalior O&M,Utila,709,2394557,Utila,89,UTI,Utila,1912,89,394500,Gwalior O&M,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),Gwalior O&M,Sakhiavilas,708,2394556,Sakhiavilas,89,SIA,Sakhiavilas,1912,89,394500,Gwalior O&M,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),Gwalior O&M,Morar,707,2394542,Morar,89,MRT,Morar,1912,89,394500,Gwalior O&M,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),Gwalior O&M,Mohana,706,2394540,Mohana,89,MOH,Mohana,1912,89,394500,Gwalior O&M,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),Gwalior O&M,Motijheel,705,2394502,Motijheel,89,MIJ,Motijheel,1912,89,394500,Gwalior O&M,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),Gwalior O&M,Hastnapur,704,2394532,Hastnapur,89,HST,Hastnapur,1912,89,394500,Gwalior O&M,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),Gwalior O&M,Ghatigaon,703,2394531,Ghatigaon,89,GGO,Ghatigaon,1912,89,394500,Gwalior O&M,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),Gwalior O&M,Barai,702,2394508,Barai,89,BAR,Barai,1912,89,394500,Gwalior O&M,26,26,2401000,Gwalior (O&M),4
+Bhopal (O&M),Budni,Baktara,814,2335501,Baktara,88,BAT,Baktara,1912,88,2335500,Budni,18,18,2330000,Bhopal (O&M),3
+Bhopal (O&M),Budni,Shahganj,701,2325071,Shahganj,88,SGJ,Shahganj,1912,88,2335500,Budni,18,18,2330000,Bhopal (O&M),3
+Bhopal (O&M),Budni,Rehti,700,2324865,Rehti,88,RTI,Rehti,1912,88,2335500,Budni,18,18,2330000,Bhopal (O&M),3
+Bhopal (O&M),Budni,Budni,699,2325010,Budni,88,BUN,Budni,1912,88,2335500,Budni,18,18,2330000,Bhopal (O&M),3
+Raisen (O&M),Bareli,Udaipura,698,2325307,Udaipura,87,UDI,Udaipura,1912,87,325300,Bareli,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Bareli,Khargone,697,2325306,Khargone,87,KHR,Khargone,1912,87,325300,Bareli,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Bareli,Deori,696,2325305,Deori,87,DEO,Deori,1912,87,325300,Bareli,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Bareli,Bareli (Town),695,2325302,Bareli (Town),87,BRT,Bareli (Town),1912,87,325300,Bareli,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Bareli,Bareli (Rural),694,2325303,Bareli (Rural),87,BRR,Bareli (Rural),1912,87,325300,Bareli,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Bareli,Badi,693,2325304,Badi,87,BAK,Badi,1912,87,325300,Bareli,24,24,2550000,Raisen (O&M),3
+City Circle Bhopal,O&M KOLAR,Danish Kunj,470,2334345,Danish Kunj,86,DAN,Danish Kunj,1912,86,2334400,O&M KOLAR,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,O&M KOLAR,Misrod,466,2334335,Misrod,86,MIS,Misrod,1912,86,2334400,O&M KOLAR,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,O&M KOLAR,Bairagarh Chichli,821,2334441,Bairagarh Chichli,86,BCC,Bairagarh Chichli,1912,86,2334400,O&M KOLAR,30,30,2300900,City Circle Bhopal,3
+City Circle Gwalior,Gwalior City North,Tansen,550,2424205,Tansen,85,TNS,Tansen,1912,85,2424200,Gwalior City North,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City North,Vinay Nagar,551,2424204,Vinay Nagar,85,VNN,Vinay Nagar,1912,85,2424200,Gwalior City North,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City North,Phool bagh,552,2424206,Phool bagh,85,PLB,Phool bagh,1912,85,2424200,Gwalior City North,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City North,Transport Nagar,553,2424207,Transport Nagar,85,TPN,Transport Nagar,1912,85,2424200,Gwalior City North,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City North,Ladheri,554,2424210,Ladheri,85,LDR,Ladheri,1912,85,2424200,Gwalior City North,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City North,Birla Nagar,557,2424211,Birla Nagar,85,BLN,Birla Nagar,1912,85,2424200,Gwalior City North,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City Central,CSS,545,2425001,CSS,84,CSS,CSS,1912,84,2425000,Gwalior City Central,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City Central,CPSES,546,2425002,CPSES,84,CPS,CPSES,1912,84,2425000,Gwalior City Central,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City Central,SKC,547,2425003,SKC,84,SKC,SKC,1912,84,2425000,Gwalior City Central,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City Central,Laxmi Ganj,549,2425065,Laxmi Ganj,84,LXG,Laxmi Ganj,1912,84,2425000,Gwalior City Central,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City Central,Baraghata,548,2425006,Baraghata,84,BGT,Baraghata,1912,84,2425000,Gwalior City Central,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City East,Mahalgaon,820,2424907,Mahalgaon,83,MLG,Mahalgaon,1912,83,2424900,Gwalior City East,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City East,Morar,540,2424901,Morar,83,MRR,Morar,1912,83,2424900,Gwalior City East,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City East,DD Nagar,541,2424902,DD Nagar,83,DDN,DD Nagar,1912,83,2424900,Gwalior City East,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City East,Thatipur,542,2424903,Thatipur,83,TTP,Thatipur,1912,83,2424900,Gwalior City East,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City East,City Centre,543,2424904,City Centre,83,CCR,City Centre,1912,83,2424900,Gwalior City East,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City East,Baradari,544,2424905,Baradari,83,BRD,Baradari,1912,83,2424900,Gwalior City East,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City East,Maharajpura Zone,558,2424906,Maharajpura Zone,83,MRZ,Maharajpura Zone,1912,83,2424900,Gwalior City East,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City South,Batallion,819,2424311,Batallion,82,BTA,Batallion_Zone,1912,82,2424300,Gwalior City South,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City South,Kampu,537,2424305,Kampu,82,KMP,Kampu,1912,82,2424300,Gwalior City South,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City South,Sikandar Kampu,538,2424307,Sikandar Kampu,82,SKK,Sikandar Kampu,1912,82,2424300,Gwalior City South,31,31,2429500,City Circle Gwalior,4
+City Circle Gwalior,Gwalior City South,Golpaharia,539,2424308,Golpaharia,82,GLH,Golpaharia,1912,82,2424300,Gwalior City South,31,31,2429500,City Circle Gwalior,4
+City Circle Bhopal,Bhopal City South,TT Nagar,531,2304601,TT Nagar,81,TTN,TT Nagar,1912,81,2304600,Bhopal City South,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City South,Jahangirabad,532,2304602,Jahangirabad,81,JHB,Jahangirabad,1912,81,2304600,Bhopal City South,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City South,E-4 Arera Colony,533,2304603,E-4 Arera Colony,81,EAC,E-4 Arera Colony,1912,81,2304600,Bhopal City South,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City South,Bhadbhada,534,2304606,Bhadbhada,81,BDB,Bhadbhada,1912,81,2304600,Bhopal City South,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City South,MP Nagar,535,2304608,MP Nagar,81,MPN,MP Nagar,1912,81,2304600,Bhopal City South,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City South,Kotra,536,2304609,Kotra,81,KTR,Kotra,1912,81,2304600,Bhopal City South,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City North,Bairagarh,524,2304501,Bairagarh,80,BRG,Bairagarh,1912,80,2304500,Bhopal City North,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City North,Imamigate,525,2304502,Imamigate,80,IMG,Imamigate,1912,80,2304500,Bhopal City North,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City North,Indra Vihar,526,2304505,Indra Vihar,80,IDV,Indra Vihar,1912,80,2304500,Bhopal City North,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City North,Chhola,527,2304506,Chhola,80,CHL,Chhola,1912,80,2304500,Bhopal City North,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City North,City Kotwali,528,2304507,City Kotwali,80,CKW,City Kotwali,1912,80,2304500,Bhopal City North,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City North,Bus Stand,529,2304508,Bus Stand,80,BST,Bus Stand,1912,80,2304500,Bhopal City North,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City North,Sultaniya,530,2304509,Sultaniya,80,STY,Sultaniya,1912,80,2304500,Bhopal City North,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City East,Chandbarh,518,2304401,Chandbarh,79,CNB,Chandbarh,1912,79,2304400,Bhopal City East,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City East,Anand Nagar,519,2304402,Anand Nagar,79,ANN,Anand Nagar,1912,79,2304400,Bhopal City East,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City East,Industrial Gate,520,2304403,Industrial Gate,79,IDG,Industrial Gate,1912,79,2304400,Bhopal City East,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City East,Bhanpur,521,2304404,Bhanpur,79,BNP,Bhanpur,1912,79,2304400,Bhopal City East,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City East,Ayodhya,522,2304405,Ayodhya,79,AYD,Ayodhya,1912,79,2304400,Bhopal City East,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City East,Karond,523,2304406,Karond,79,KRD,Karond,1912,79,2304400,Bhopal City East,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City West,Shakti Nagar,513,2304201,Shakti Nagar,78,SKN,Shakti Nagar,1912,78,2304200,Bhopal City West,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City West,Shahpura,514,2304202,Shahpura,78,SHP,Shahpura,1912,78,2304200,Bhopal City West,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City West,Vidhya Nagar,515,2304203,Vidhya Nagar,78,VDN,Vidhya Nagar,1912,78,2304200,Bhopal City West,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City West,Vallabh Nagar,516,2304204,Vallabh Nagar,78,VBN,Vallabh Nagar,1912,78,2304200,Bhopal City West,30,30,2300900,City Circle Bhopal,3
+City Circle Bhopal,Bhopal City West,Katara Hills,517,2304265,Katara Hills,78,KTH,Katara Hills,1912,78,2304200,Bhopal City West,30,30,2300900,City Circle Bhopal,3
+Bhopal (O&M),O&M Mandideep,Mandideep,512,2335261,Mandideep,77,MDD,Mandideep,1912,77,2335200,O&M Mandideep,18,18,2330000,Bhopal (O&M),3
+Vidisha (O&M),O&M Basoda,Pathari,828,2335440,Pathari,76,PTA,Pathari,1912,76,2625400,O&M Basoda,20,20,2621500,Vidisha (O&M),3
+Vidisha (O&M),O&M Basoda,Anandpur,827,2335439,Anandpur,76,ADP,Anandpur,1912,76,2625400,O&M Basoda,20,20,2621500,Vidisha (O&M),3
+Vidisha (O&M),O&M Basoda,Pathariya,826,2335438,Pathariya,76,PTH,Pathariya,1912,76,2625400,O&M Basoda,20,20,2621500,Vidisha (O&M),3
+Vidisha (O&M),O&M Basoda,Basoda,504,2625401,Basoda,76,BSD,Basoda,1912,76,2625400,O&M Basoda,20,20,2621500,Vidisha (O&M),3
+Vidisha (O&M),O&M Basoda,Sironj,505,2625435,Sironj,76,SRJ,Sironj,1912,76,2625400,O&M Basoda,20,20,2621500,Vidisha (O&M),3
+Vidisha (O&M),O&M Basoda,Kurwai,506,2625415,Kurwai,76,KRJ,Kurwai,1912,76,2625400,O&M Basoda,20,20,2621500,Vidisha (O&M),3
+Vidisha (O&M),O&M Basoda,Ganj,507,2625405,Ganj,76,GNJ,Ganj,1912,76,2625400,O&M Basoda,20,20,2621500,Vidisha (O&M),3
+Vidisha (O&M),O&M Basoda,Tyonda,508,2625436,Tyonda,76,TND,Tyonda,1912,76,2625400,O&M Basoda,20,20,2621500,Vidisha (O&M),3
+Vidisha (O&M),O&M Basoda,Lateri,509,2625420,Lateri,76,LTR,Lateri,1912,76,2625400,O&M Basoda,20,20,2621500,Vidisha (O&M),3
+Vidisha (O&M),O&M Basoda,Bagroda,510,2625402,Bagroda,76,BGD,Bagroda,1912,76,2625400,O&M Basoda,20,20,2621500,Vidisha (O&M),3
+Bhind (O&M),O&M Gohad,Gohad,503,2284705,Gohad,75,GHD,Gohad,1912,75,2284700,O&M Gohad,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),O&M Gohad,Mau,692,2484702,Mau,75,MAD,Mau,1912,75,2284700,O&M Gohad,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),O&M Gohad,Keeratpura,691,2484703,Keeratpura,75,KEE,Keeratpura,1912,75,2284700,O&M Gohad,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),O&M Gohad,Gohad (Rural),690,2484701,Gohad (Rural),75,GHA,Gohad (Rural),1912,75,2284700,O&M Gohad,25,25,2289500,Bhind (O&M),4
+Sehore (O&M),O&M Sehore,Sehore,501,2576154,Sehore,74,SHR,Sehore,1912,74,2576100,O&M Sehore,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Sehore,Sehore zone 2,555,2576115,Sehore zone 2,74,SHS,Sehore zone 2,1912,74,2576100,O&M Sehore,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Sehore,Thoona,689,2574856,Thoona,74,TOO,Thoona,1912,74,2576100,O&M Sehore,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Sehore,Shyampur,688,2574855,Shyampur,74,SHY,Shyampur,1912,74,2576100,O&M Sehore,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Sehore,Naplakhedi,687,2574853,Naplakhedi,74,NPL,Naplakhedi,1912,74,2576100,O&M Sehore,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Sehore,Khajuri Kala,686,2574852,Khajuri Kala,74,KKL,Khajuri Kala,1912,74,2576100,O&M Sehore,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Sehore,Ichhawar,685,2574851,Ichhawar,74,ICH,Ichhawar,1912,74,2576100,O&M Sehore,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Sehore,Doraha,684,2574850,Doraha,74,DOR,Doraha,1912,74,2576100,O&M Sehore,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Sehore,Diwadia,683,2574857,Diwadia,74,DIW,Diwadia,1912,74,2576100,O&M Sehore,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Sehore,Bilquis Ganj,682,2574846,Bilquis Ganj,74,BQS,Bilquis Ganj,1912,74,2576100,O&M Sehore,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Sehore,Bijori,681,2574847,Bijori,74,BOI,Bijori,1912,74,2576100,O&M Sehore,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Sehore,Birjish Nagar,680,2574848,Birjish Nagar,74,BNA,Birjish Nagar,1912,74,2576100,O&M Sehore,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Sehore,Bhaukhedi,679,2574849,Bhaukhedi,74,BAU,Bhaukhedi,1912,74,2576100,O&M Sehore,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Sehore,Ahmadpur,678,2574845,Ahmadpur,74,AHM,Ahmadpur,1912,74,2576100,O&M Sehore,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Sehore,Amlaha,677,2574844,Amlaha,74,AAH,Amlaha,1912,74,2576100,O&M Sehore,17,17,2270500,Sehore (O&M),3
+Datia (O&M),O&M Datia,Udgawon,809,2354466,Udgawon,73,UDG,UDGAWAN(R) D/C,1912,73,2404400,O&M Datia,29,29,2351000,Datia (O&M),4
+Datia (O&M),O&M Datia,Datia,500,2404402,Datia,73,DTA,Datia,1912,73,2404400,O&M Datia,29,29,2351000,Datia (O&M),4
+Datia (O&M),O&M Datia,Unao (Rural),676,2394465,Unao (Rural),73,UNR,Unao (Rural),1912,73,2404400,O&M Datia,29,29,2351000,Datia (O&M),4
+Datia (O&M),O&M Datia,Sitapur (Rural),675,2394416,Sitapur (Rural),73,SPR,Sitapur (Rural),1912,73,2404400,O&M Datia,29,29,2351000,Datia (O&M),4
+Datia (O&M),O&M Datia,Datia (Rural),674,2394406,Datia (Rural),73,DTR,Datia (Rural),1912,73,2404400,O&M Datia,29,29,2351000,Datia (O&M),4
+Datia (O&M),O&M Datia,Basai (Rural),673,2394408,Basai (Rural),73,BAY,Basai (Rural),1912,73,2404400,O&M Datia,29,29,2351000,Datia (O&M),4
+Datia (O&M),O&M Datia,Badoni (Rural),672,2394404,Badoni (Rural),73,BAO,Badoni (Rural),1912,73,2404400,O&M Datia,29,29,2351000,Datia (O&M),4
+Shivpuri (O&M),O&M Shivpuri-1,Satanwada,829,2434626,Satanwada,72,STW,Satanwad,1912,72,2594600,O&M Shivpuri-1,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),O&M Shivpuri-1,Shivpuri East Zone(U),497,2594630,Shivpuri East Zone(U),72,SPE,Shivpuri East Zone(U),1912,72,2594600,O&M Shivpuri-1,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),O&M Shivpuri-1,Shivpuri West Zone(U),498,2594628,Shivpuri West Zone(U),72,SPW,Shivpuri West Zone(U),1912,72,2594600,O&M Shivpuri-1,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),O&M Shivpuri-1,Shivpuri (Rural),671,2384625,Shivpuri (Rural),72,SHL,Shivpuri (Rural),1912,72,2594600,O&M Shivpuri-1,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),O&M Shivpuri-1,Pohari-1,670,2384620,Pohari-1,72,POR,Pohari-1,1912,72,2594600,O&M Shivpuri-1,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),O&M Shivpuri-1,Pohari-2,669,2384631,Pohari-2,72,PID,Pohari-2,1912,72,2594600,O&M Shivpuri-1,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),O&M Shivpuri-1,Bairad-2,668,2384629,Bairad-2,72,BRE,Bairad-2,1912,72,2594600,O&M Shivpuri-1,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),O&M Shivpuri-1,Barodi,667,2384630,Barodi,72,BDI,Barodi,1912,72,2594600,O&M Shivpuri-1,28,28,2599500,Shivpuri (O&M),4
+Shivpuri (O&M),O&M Shivpuri-1,Bairad-1,666,2384605,Bairad-1,72,BAI,Bairad-1,1912,72,2594600,O&M Shivpuri-1,28,28,2599500,Shivpuri (O&M),4
+Morena (O&M),O&M Ambah,Ambah (Town),495,2504610,Ambah (Town),71,ABH,Ambah (Town),1912,71,2504600,O&M Ambah,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Ambah,Thara,664,2484414,Thara,71,THA,Thara,1912,71,2504600,O&M Ambah,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Ambah,Rajodha,663,2484415,Rajodha,71,RAO,Rajodha,1912,71,2504600,O&M Ambah,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Ambah,Rachhed,662,2484413,Rachhed,71,RAC,Rachhed,1912,71,2504600,O&M Ambah,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Ambah,Khadiyahaar,660,2484416,Khadiyahaar,71,KHD,Khadiyahaar,1912,71,2504600,O&M Ambah,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Ambah,Dimni,659,2484412,Dimni,71,DNI,Dimni,1912,71,2504600,O&M Ambah,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Ambah,Ambah,665,2484410,Ambah,71,AAT,Ambah ,1912,71,2504600,O&M Ambah,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Ambah,Porsa,661,2484411,Porsa,71,PRZ,Porsa,1912,71,2504600,O&M Ambah,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Ambah,Porsa Zone,496,2504611,Porsa Zone,71,PRS,Porsa zone,1912,71,2504600,O&M Ambah,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Sabalgarh,Kanhar,830,2504519,Kanhar,70,KNA,Kanhar,1912,70,2504500,O&M Sabalgarh,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Sabalgarh,Sabalgarh,493,2504501,Sabalgarh,70,SBG,Sabalgarh,1912,70,2504500,O&M Sabalgarh,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Sabalgarh,Joura,494,2504512,Joura,70,JRA,Joura,1912,70,2504500,O&M Sabalgarh,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Sabalgarh,Sujarma,658,2484506,Sujarma,70,SUJ,Sujarma,1912,70,2504500,O&M Sabalgarh,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Sabalgarh,SABALGARH (Rural),657,2484502,SABALGARH (Rural),70,SBJ,SABALGARH (Rural),1912,70,2504500,O&M Sabalgarh,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Sabalgarh,Rampurkalan,656,2484507,Rampurkalan,70,RPU,Rampurkalan,1912,70,2504500,O&M Sabalgarh,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Sabalgarh,Pahargarh,655,2484505,Pahargarh,70,PAI,Pahargarh,1912,70,2504500,O&M Sabalgarh,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Sabalgarh,Kailarash,654,2484508,Kailarash,70,KAS,Kailarash,1912,70,2504500,O&M Sabalgarh,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Sabalgarh,Jhundpura,653,2484510,Jhundpura,70,JHU,Jhundpura,1912,70,2504500,O&M Sabalgarh,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Sabalgarh,Alapur,652,2484513,Alapur,70,ALA,Alapur,1912,70,2504500,O&M Sabalgarh,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Sabalgarh,SANKRA,811,2504518,SANKRA,70,SAK,SANKRA,1912,70,2504500,O&M Sabalgarh,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Morena-1,Morena,490,2504401,Morena,69,MOR,Morena,1912,69,2504400,O&M Morena-1,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Morena-1,Duttapura,491,2504402,Duttapura,69,DTT,Duttapura,1912,69,2504400,O&M Morena-1,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Morena-1,Dattpura Zone,650,2484402,Dattpura Zone,69,DTX,Dattpura Zone,1912,69,2504400,O&M Morena-1,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Morena-1,Ganeshpura,651,2484403,Ganeshpura,69,GAE,Ganeshpura,1912,69,2504400,O&M Morena-1,27,27,2501000,Morena (O&M),4
+Morena (O&M),O&M Morena-1,Ganeshpura (Town),492,2504403,Ganeshpura (Town),69,GSP,Ganeshpura Zone,1912,69,2504400,O&M Morena-1,27,27,2501000,Morena (O&M),4
+Gwalior (O&M),O&M Dabra,Dabra,489,2404608,Dabra,68,DBR,Dabra,1912,68,2404600,O&M Dabra,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),O&M Dabra,Tekanpur,649,2394603,Tekanpur,68,TEK,Tekanpur,1912,68,2404600,O&M Dabra,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),O&M Dabra,Pichhore,648,2394610,Pichhore,68,PII,Pichhore,1912,68,2404600,O&M Dabra,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),O&M Dabra,Karhiya,647,2394602,Karhiya,68,KAI,Karhiya,1912,68,2404600,O&M Dabra,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),O&M Dabra,DABRA (Rural),646,2394611,DABRA (Rural),68,DRA,DABRA (Rural),1912,68,2404600,O&M Dabra,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),O&M Dabra,Deori Kala,645,2394612,Deori Kala,68,DEK,Deori Kala,1912,68,2404600,O&M Dabra,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),O&M Dabra,Chinore,644,2394616,Chinore,68,CHN,Chinore,1912,68,2404600,O&M Dabra,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),O&M Dabra,Bhiterwar,643,2394606,Bhiterwar,68,BHT,Bhiterwar,1912,68,2404600,O&M Dabra,26,26,2401000,Gwalior (O&M),4
+Gwalior (O&M),O&M Dabra,Antri,642,2394604,Antri,68,ANT,Antri,1912,68,2404600,O&M Dabra,26,26,2401000,Gwalior (O&M),4
+Bhind (O&M),O&M Bhind,Bhind,488,2284201,Bhind,67,BHD,Bhind,1912,67,2284200,O&M Bhind,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),O&M Bhind,Umari,641,2484204,Umari,67,UMA,Umari,1912,67,2284200,O&M Bhind,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),O&M Bhind,Phoop,640,2484206,Phoop,67,POO,Phoop,1912,67,2284200,O&M Bhind,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),O&M Bhind,Ethar,639,2484208,Ethar,67,ETH,Ethar,1912,67,2284200,O&M Bhind,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),O&M Bhind,Bhind (Rural),638,2484202,Bhind (Rural),67,BHI,Bhind (Rural),1912,67,2284200,O&M Bhind,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),O&M Bhind,Ater,637,2484205,Ater,67,ATE,Ater,1912,67,2284200,O&M Bhind,25,25,2289500,Bhind (O&M),4
+Bhind (O&M),O&M Bhind,ITI Zone,810,2284203,ITI Zone,67,ITI,ITI Zone,1912,67,2284200,O&M Bhind,25,25,2289500,Bhind (O&M),4
+Raisen (O&M),Raisen,Kharwai,831,2334772,Kharwai,66,KHW,Kharwai,1912,66,2334700,Raisen,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Raisen,BegamGanj,487,2334710,BegamGanj,66,BGN,Begamganj,1912,66,2334700,Raisen,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Raisen,Raisen,511,2334730,Raisen,66,RIS,Raisen,1912,66,2334700,Raisen,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Raisen,Silwani,636,2324735,Silwani,66,SIL,Silwani,1912,66,2334700,Raisen,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Raisen,Salamatpur,635,2324736,Salamatpur,66,SAM,Salamatpur,1912,66,2334700,Raisen,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Raisen,Raisen (Rural),634,2324725,Raisen (Rural),66,RSA,Raisen (Rural),1912,66,2334700,Raisen,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Raisen,Geratganj,633,2324715,Geratganj,66,GTG,Geratganj,1912,66,2334700,Raisen,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Raisen,Dehgaon,632,2324713,Dehgaon,66,DEH,Dehgaon,1912,66,2334700,Raisen,24,24,2550000,Raisen (O&M),3
+Raisen (O&M),Raisen,Begamganj (Rural),631,2324709,Begamganj (Rural),66,BEG,Begamganj (Rural),1912,66,2334700,Raisen,24,24,2550000,Raisen (O&M),3
+Narmadapuram (O&M),Itarsi,Pathrota,630,2414560,Pathrota,65,PDT,Pathrota,1912,65,2454500,Itarsi,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Itarsi,Kesla,629,2414559,Kesla,65,KSL,Kesla,1912,65,2454500,Itarsi,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Itarsi,Gurra,628,2414555,Gurra,65,GUR,Gurra,1912,65,2454500,Itarsi,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Itarsi,Itarsi Town,484,2454558,Itarsi Town,65,ITA,Itarsi,1912,65,2454500,Itarsi,19,19,2451000,Narmadapuram (O&M),3
+Betul (O&M),Betul North,Sarni (Town),627,2414207,Sarni (Town),64,SAT,Sarni (Town),1912,64,2294200,Betul North,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul North,Sarni,485,2294207,Sarni,64,SAR,Sarni,1912,64,2294200,Betul North,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul North,Bhoura,822,2294218,Bhoura,64,BHO,Bhoura,1912,64,2294200,Betul North,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul North,Chuna Hazuri,823,2294219,Chuna Hazuri,64,CHZ,Chuna Hazuri,1912,64,2294200,Betul North,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul North,Shahpur,626,2414208,Shahpur,64,SAP,Shahpur,1912,64,2294200,Betul North,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul North,Khedli Bazar,625,2414209,Khedli Bazar,64,KEB,Khedli Bazar,1912,64,2294200,Betul North,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul North,Ghodadongry,624,2414206,Ghodadongry,64,GDR,Ghodadongry,1912,64,2294200,Betul North,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul North,Chicholi,623,2414205,Chicholi,64,CHI,Chicholi,1912,64,2294200,Betul North,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul North,Bhimpur,622,2294213,Bhimpur,64,BIM,Bhimpur,1912,64,2294200,Betul North,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul North,Bordehi,621,2414203,Bordehi,64,BDE,Bordehi,1912,64,2294200,Betul North,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul North,Amla (Rural),620,2414201,Amla (Rural),64,AML,Amla (Rural),1912,64,2294200,Betul North,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul North,Ambada,619,2414210,Ambada,64,AMB,Ambada,1912,64,2294200,Betul North,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul North,Amla (Town),618,2414202,Amla (Town),64,ALB,Amla (Town),1912,64,2294200,Betul North,16,16,2299500,Betul (O&M),3
+Rajgarh (O&M),O&M Bioara,Sarangpur,483,2532827,Sarangpur,63,SRN,Sarangpur,1912,63,2532800,O&M Bioara,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),O&M Bioara,Bioara,499,2532821,Bioara,63,BIR,Bioara,1912,63,2532800,O&M Bioara,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),O&M Bioara,Gindorehat,825,2302820,Gindorehat,63,GDH,Gindorehat,1912,63,2532800,O&M Bioara,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),O&M Bioara,Suthaliya,617,2574324,Suthaliya,63,SYA,Suthaliya,1912,63,2532800,O&M Bioara,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),O&M Bioara,Suthaliya,616,2574323,Suthaliya,63,SUT,Suthaliya,1912,63,2532800,O&M Bioara,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),O&M Bioara,Sarangpur,615,2574328,Sarangpur,63,SRA,Sarangpur,1912,63,2532800,O&M Bioara,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),O&M Bioara,Padliyamata,614,2574329,Padliyamata,63,PAL,Padliyamata,1912,63,2532800,O&M Bioara,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),O&M Bioara,Malawar,613,2574325,Malawar,63,MAW,Malawar,1912,63,2532800,O&M Bioara,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),O&M Bioara,Mau,612,2574326,Mau,63,MAU,Mau,1912,63,2532800,O&M Bioara,23,23,2531200,Rajgarh (O&M),3
+Rajgarh (O&M),O&M Bioara,Biaora (Rural),611,2574322,Biaora (Rural),63,BOR,Biaora (Rural),1912,63,2532800,O&M Bioara,23,23,2531200,Rajgarh (O&M),3
+Guna (O&M),O&M Raghogarh,Raghogarh,482,2434941,Raghogarh,62,RGH,Raghogarh,1912,62,2434900,O&M Raghogarh,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Raghogarh,Raghogrh_R,808,2384941,Raghogrh_R,62,RGZ,Raghogrh_R,1912,62,2434900,O&M Raghogarh,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Raghogarh,Ruthiyai,610,2384944,Ruthiyai,62,RHI,Ruthiyai,1912,62,2434900,O&M Raghogarh,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Raghogarh,Mrigwas,609,2384931,Mrigwas,62,MRI,Mrigwas,1912,62,2434900,O&M Raghogarh,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Raghogarh,Madhusudan Garh,608,2384929,Madhusudan Garh,62,MDG,Madhusudan Garh,1912,62,2434900,O&M Raghogarh,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Raghogarh,Kumbharaj,607,2384926,Kumbharaj,62,KMB,Kumbharaj,1912,62,2434900,O&M Raghogarh,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Raghogarh,Jamner,606,2384923,Jamner,62,JAM,Jamner,1912,62,2434900,O&M Raghogarh,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Raghogarh,Chachoda,605,2384913,Chachoda,62,CCA,Chachoda,1912,62,2434900,O&M Raghogarh,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Raghogarh,Binaganj,604,2384910,Binaganj,62,BNJ,Binaganj,1912,62,2434900,O&M Raghogarh,22,22,2431000,Guna (O&M),4
+ASHOK NAGAR (O&M),O&M Ashok Nagar,Ashoknagar,481,2434203,Ashoknagar,61,ASK,Ashoknagar,1912,61,2434200,O&M Ashok Nagar,32,32,2251000,ASHOK NAGAR (O&M),4
+ASHOK NAGAR (O&M),O&M Ashok Nagar,Awari,598,2384206,Awari,61,AWA,Awari,1912,61,2434200,O&M Ashok Nagar,32,32,2251000,ASHOK NAGAR (O&M),4
+ASHOK NAGAR (O&M),O&M Ashok Nagar,Toomen,603,2384236,Toomen,61,TOM,Toomen,1912,61,2434200,O&M Ashok Nagar,32,32,2251000,ASHOK NAGAR (O&M),4
+ASHOK NAGAR (O&M),O&M Ashok Nagar,Chanderi,599,2384209,Chanderi,61,CDE,Chanderi,1912,61,2434200,O&M Ashok Nagar,32,32,2251000,ASHOK NAGAR (O&M),4
+ASHOK NAGAR (O&M),O&M Ashok Nagar,Eshagarh,600,2384216,Eshagarh,61,EHA,Eshagarh,1912,61,2434200,O&M Ashok Nagar,32,32,2251000,ASHOK NAGAR (O&M),4
+ASHOK NAGAR (O&M),O&M Ashok Nagar,Naisarai,601,2384225,Naisarai,61,NSA,Naisarai,1912,61,2434200,O&M Ashok Nagar,32,32,2251000,ASHOK NAGAR (O&M),4
+ASHOK NAGAR (O&M),O&M Ashok Nagar,Shadhora,602,2384235,Shadhora,61,SHA,Shadhora,1912,61,2434200,O&M Ashok Nagar,32,32,2251000,ASHOK NAGAR (O&M),4
+Guna (O&M),O&M Guna,Cant Zone,818,2434420,Cant Zone,60,CNT,Guna_Cant_Zone,1912,60,2434400,O&M Guna,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Guna,Rampur,597,2384445,Rampur,60,RAM,Rampur,1912,60,2434400,O&M Guna,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Guna,Guna,480,2434419,Guna,60,GNA,Guna,1912,60,2434400,O&M Guna,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Guna,Aron,589,2384404,Aron,60,ARO,Aron,1912,60,2434400,O&M Guna,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Guna,Bajrang Garh,590,2384405,Bajrang Garh,60,BAJ,Bajrang Garh,1912,60,2434400,O&M Guna,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Guna,Bamori,591,2384407,Bamori,60,BAM,Bamori,1912,60,2434400,O&M Guna,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Guna,Bhadora,592,2384406,Bhadora,60,BHA,Bhadora,1912,60,2434400,O&M Guna,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Guna,Fatehgarh,593,2384411,Fatehgarh,60,FGH,Fatehgarh,1912,60,2434400,O&M Guna,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Guna,Guna (Rural),594,2384418,Guna (Rural),60,GNR,Guna (Rural),1912,60,2434400,O&M Guna,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Guna,Myana,595,2384434,Myana,60,MYA,Myana,1912,60,2434400,O&M Guna,22,22,2431000,Guna (O&M),4
+Guna (O&M),O&M Guna,Pagara,596,2384438,Pagara,60,PAG,Pagara,1912,60,2434400,O&M Guna,22,22,2431000,Guna (O&M),4
+Sheopur (O&M),O&M Sheopur South,Sheopur,478,2605001,Sheopur,59,SOR,Sheopur,1912,59,2605000,O&M Sheopur South,21,21,2601000,Sheopur (O&M),4
+Sheopur (O&M),O&M Sheopur South,Sheopur (Rural),588,2385002,Sheopur (Rural),59,SHT,Sheopur (Rural),1912,59,2605000,O&M Sheopur South,21,21,2601000,Sheopur (O&M),4
+Sheopur (O&M),O&M Sheopur South,Pandola,587,2605101,Pandola,59,PDO,Pandola,1912,59,2605000,O&M Sheopur South,21,21,2601000,Sheopur (O&M),4
+Sheopur (O&M),O&M Sheopur South,Karhal,586,2385003,Karhal,59,KAH,Karhal,1912,59,2605000,O&M Sheopur South,21,21,2601000,Sheopur (O&M),4
+Sheopur (O&M),O&M Sheopur South,Baroda,585,2385004,Baroda,59,BDA,Baroda,1912,59,2605000,O&M Sheopur South,21,21,2601000,Sheopur (O&M),4
+Vidisha (O&M),O&M Vidisha,Vidisha-I,476,2624945,Vidisha-I,58,VDI,Vidisha,1912,58,2624900,O&M Vidisha,20,20,2621500,Vidisha (O&M),3
+Vidisha (O&M),O&M Vidisha,Vidisha-II,477,2624947,Vidisha-II,58,VDS,Vidisha,1912,58,2624900,O&M Vidisha,20,20,2621500,Vidisha (O&M),3
+Vidisha (O&M),O&M Vidisha,Vidisha (Rural),584,2324940,Vidisha (Rural),58,VDR,Vidisha (Rural),1912,58,2624900,O&M Vidisha,20,20,2621500,Vidisha (O&M),3
+Vidisha (O&M),O&M Vidisha,Shamshabad,583,2324930,Shamshabad,58,SMS,Shamshabad,1912,58,2624900,O&M Vidisha,20,20,2621500,Vidisha (O&M),3
+Vidisha (O&M),O&M Vidisha,Nateran,582,2324925,Nateran,58,NAT,Nateran,1912,58,2624900,O&M Vidisha,20,20,2621500,Vidisha (O&M),3
+Vidisha (O&M),O&M Vidisha,Mirjapur,581,2324924,Mirjapur,58,MIR,Mirjapur,1912,58,2624900,O&M Vidisha,20,20,2621500,Vidisha (O&M),3
+Vidisha (O&M),O&M Vidisha,Gyaraspur,580,2324910,Gyaraspur,58,GYA,Gyaraspur,1912,58,2624900,O&M Vidisha,20,20,2621500,Vidisha (O&M),3
+Narmadapuram (O&M),Narmadapuram,Narmadapuram-II,475,2454775,Narmadapuram-II,57,HDS,Narmadapuram,1912,57,2454700,Narmadapuram,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Narmadapuram,Narmadapuram-I,474,2454757,Narmadapuram-I,57,HDI,Narmadapuram,1912,57,2454700,Narmadapuram,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Narmadapuram,Seoni Malwa (Town),579,2414739,Seoni Malwa (Town),57,SMU,Seoni Malwa (Town),1912,57,2454700,Narmadapuram,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Narmadapuram,Seoni Malwa (Rural),578,2414738,Seoni Malwa (Rural),57,SMR,Seoni Malwa (Rural),1912,57,2454700,Narmadapuram,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Narmadapuram,Shivpur,577,2414737,Shivpur,57,SHI,Shivpur,1912,57,2454700,Narmadapuram,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Narmadapuram,Dolaria,575,2414754,Dolaria,57,DOL,Dolaria,1912,57,2454700,Narmadapuram,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Narmadapuram,Baghwada,574,2414742,Baghwada,57,BAW,Baghwada,1912,57,2454700,Narmadapuram,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Narmadapuram,Narmadapuram (Rural),576,2414756,Narmadapuram (Rural),57,HBR,Narmadapuram (Rural),1912,57,2454700,Narmadapuram,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Pipariya,Sandiya,573,2414664,Sandiya,56,SAN,Sandiya,1912,56,2454600,Pipariya,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Pipariya,Pipariya (R-S),572,2414671,Pipariya (R-S),56,PRT,Pipariya (R-S),1912,56,2454600,Pipariya,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Pipariya,Pipariya (R-N),571,2414662,Pipariya (R-N),56,PRN,Pipariya (R-N),1912,56,2454600,Pipariya,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Pipariya,Pachmarhi,570,2414661,Pachmarhi,56,PAC,Pachmarhi,1912,56,2454600,Pipariya,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Pipariya,Chandone,569,2414670,Chandone,56,CDO,Chandone,1912,56,2454600,Pipariya,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Pipariya,Bankhedi,568,2414653,Bankhedi,56,BAN,Bankhedi,1912,56,2454600,Pipariya,19,19,2451000,Narmadapuram (O&M),3
+Narmadapuram (O&M),Pipariya,Pipariya Town,473,2454681,Pipariya Town,56,PRY,Pipariya,1912,56,2454600,Pipariya,19,19,2451000,Narmadapuram (O&M),3
+Harda (O&M),Harda_North,Harda,472,2454433,Harda,55,HRD,Harda,1912,55,2454400,Harda_North,33,33,2441000,Harda (O&M),3
+Harda (O&M),Harda_North,Masangaon,564,2414435,Masangaon,55,MDN,Masangaon,1912,55,2454400,Harda_North,33,33,2441000,Harda (O&M),3
+Harda (O&M),Harda_North,Khirkiya,563,2414434,Khirkiya,55,KRK,Khirkiya,1912,55,2454400,Harda_North,33,33,2441000,Harda (O&M),3
+Harda (O&M),Harda_North,Harda South,561,2414443,Harda South,55,HDR,Harda South,1912,55,2454400,Harda_North,33,33,2441000,Harda (O&M),3
+Harda (O&M),Harda_North,Harda North,560,2414432,Harda North,55,HDN,Harda North,1912,55,2454400,Harda_North,33,33,2441000,Harda (O&M),3
+Harda (O&M),Harda_North,Charuwa,559,2414431,Charuwa,55,CRU,Charuwa,1912,55,2454400,Harda_North,33,33,2441000,Harda (O&M),3
+Bhopal (O&M),O&M Bhopal,Ratibadh,479,2334365,Ratibadh,54,RTB,Ratibadh,1912,54,2334300,O&M Bhopal,18,18,2330000,Bhopal (O&M),3
+Bhopal (O&M),O&M Bhopal,Berasia,462,2334330,Berasia,54,BER,Berasia,1912,54,2334300,O&M Bhopal,18,18,2330000,Bhopal (O&M),3
+Bhopal (O&M),O&M Bhopal,Inthkedhi,463,2334331,Inthkedhi,54,INT,Intkhedi,1912,54,2334300,O&M Bhopal,18,18,2330000,Bhopal (O&M),3
+Bhopal (O&M),O&M Bhopal,KHAJURI SADAK,464,2334332,KHAJURI SADAK,54,KJS,KHAJURI SADAK,1912,54,2334300,O&M Bhopal,18,18,2330000,Bhopal (O&M),3
+Bhopal (O&M),O&M Bhopal,PARWALIASADAK,465,2334333,PARWALIASADAK,54,PAR,PARWALIA SADAK,1912,54,2334300,O&M Bhopal,18,18,2330000,Bhopal (O&M),3
+Bhopal (O&M),O&M Bhopal,Lalaria,467,2334336,Lalaria,54,LAL,Lalaria,1912,54,2334300,O&M Bhopal,18,18,2330000,Bhopal (O&M),3
+Bhopal (O&M),O&M Bhopal,Sukhi Sewania,468,2334338,Sukhi Sewania,54,SUK,Sukhi Sewani,1912,54,2334300,O&M Bhopal,18,18,2330000,Bhopal (O&M),3
+Bhopal (O&M),O&M Bhopal,Nazirabadh,469,2334339,Nazirabadh,54,NAZ,Nazirabadah,1912,54,2334300,O&M Bhopal,18,18,2330000,Bhopal (O&M),3
+Bhopal (O&M),O&M Bhopal,Gunga,471,2334346,Gunga,54,GUN,Gunga,1912,54,2334300,O&M Bhopal,18,18,2330000,Bhopal (O&M),3
+Bhopal (O&M),O&M Bhopal,Kajlikheda,815,2334310,Kajlikheda,54,KAL,Kajlikheda DC,1912,54,2334300,O&M Bhopal,18,18,2330000,Bhopal (O&M),3
+Bhopal (O&M),O&M Bhopal,Bagroda,816,2334309,Bagroda,54,BGR,Bagroda_DC,1912,54,2334300,O&M Bhopal,18,18,2330000,Bhopal (O&M),3
+Sehore (O&M),O&M Ashta,Ashta,502,2572401,Ashta,53,AST,Ashta,1912,53,2572400,O&M Ashta,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Ashta,Bager,454,2572402,Bager,53,BAG,Bager,1912,53,2572400,O&M Ashta,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Ashta,Hakimabad,455,2572403,Hakimabad,53,HAK,Hakimabad,1912,53,2572400,O&M Ashta,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Ashta,Jawar,456,2572404,Jawar,53,JAW,Jawar,1912,53,2572400,O&M Ashta,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Ashta,Kothari,457,2572405,Kothari,53,KOT,Kothari,1912,53,2572400,O&M Ashta,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Ashta,Khachrod,458,2572406,Khachrod,53,KHA,Khachrod,1912,53,2572400,O&M Ashta,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Ashta,Matwada,459,2572407,Matwada,53,MAT,Matwada,1912,53,2572400,O&M Ashta,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Ashta,Maina,460,2572408,Maina,53,MAI,Maina,1912,53,2572400,O&M Ashta,17,17,2270500,Sehore (O&M),3
+Sehore (O&M),O&M Ashta,Siddiqueganj,461,2572409,Siddiqueganj,53,SID,Siddiqueganj,1912,53,2572400,O&M Ashta,17,17,2270500,Sehore (O&M),3
+Betul (O&M),Betul South,Betul T,486,2294317,Betul T,52,BTL,Betul,1912,52,2294300,Betul South,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul South,Betul Rural,445,2294304,Betul Rural,52,BTR,Betul Rural,1912,52,2294300,Betul South,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul South,Athner,446,2294316,Athner,52,ATH,Athner,1912,52,2294300,Betul South,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul South,Betul Bazar,447,2294318,Betul Bazar,52,BBZ,Betul Bazar,1912,52,2294300,Betul South,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul South,Bhainsdehi,448,2294319,Bhainsdehi,52,BND,Bhainsdehi,1912,52,2294300,Betul South,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul South,Khedi,449,2294320,Khedi,52,KDI,Khedi,1912,52,2294300,Betul South,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul South,Jhallar,450,2294321,Jhallar,52,JLL,Jhallar,1912,52,2294300,Betul South,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul South,Padhar,451,2294322,Padhar,52,PDH,Padhar,1912,52,2294300,Betul South,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul South,Satner,452,2294323,Satner,52,STN,Satner,1912,52,2294300,Betul South,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul South,Sawalmendha,453,2294324,Sawalmendha,52,SWM,Sawalmendha,1912,52,2294300,Betul South,16,16,2299500,Betul (O&M),3
+Betul (O&M),Betul South,Betul Zone 2,556,2294327,Betul Zone 2,52,BTS,Betul Zone 2,1912,52,2294300,Betul South,16,16,2299500,Betul (O&M),3

@@ -1,0 +1,166 @@
+
+{% extends 'dashboard.html' %}
+{% block content %}
+
+ <!-- Main Content -->
+           <div class="table-responsive">
+    <table class="table table-bordered table-striped" id="requestsTable">
+
+        <!-- 🔷 TABLE HEADER -->
+        <thead class="table-dark">
+            <tr>
+                <th>Sr.no.</th>
+                <th>Consumer No</th>
+                <th>Name</th>
+                <th>Mobile</th>
+                <th>Amount</th>
+                <th>Committee Member</th>
+                <th>Committee Member</th>
+                <th>Committee Member</th>
+                <th>Committee Member</th>
+                <th>Final Status</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+
+        <!-- 🔷 TABLE BODY -->
+        <tbody>
+            {% for req in data %}
+            <tr>
+                <td>{{ forloop.counter }}</td>
+                <td>{{ req.consumer_no }}</td>
+                <td>{{ req.name }}</td>
+                <td>{{ req.mobile }}</td>
+                <td>{{ req.requested_amount }}</td>
+
+                <!-- AO Status -->
+                <td>
+                {% if req.requested_amount >= 500000 %}
+                    {% if req.ao_status == 1 %}
+                        <span class="badge bg-success">Approved</span>
+                    {% elif req.ao_status == 2 %}
+                        <span class="badge bg-danger">Rejected</span>
+                    {% elif req.ao_status == 3 %}
+                        <span class="badge bg-dark">Revert</span>
+                    {% else %}
+                        <span class="badge bg-warning">Pending</span>
+                    {% endif %}
+                {% else %}
+
+                    {% if req.zonal_officer_status == 1 %}
+                        <span class="badge bg-success">Approved</span>
+                    {% elif req.zonal_officer_status == 2 %}
+                        <span class="badge bg-danger">Rejected</span>
+                    {% elif req.zonal_officer_status == 3 %}
+                        <span class="badge bg-dark">Revert</span>
+                    {% else %}
+                        <span class="badge bg-warning">Pending</span>
+                    {% endif %}
+
+                    
+                {% endif %}
+                </td>
+
+                <!-- CGM Status -->
+                <td>
+                {% if req.requested_amount >= 500000 %}
+                    {% if req.cgm_status == 1 %}
+                        <span class="badge bg-success">Approved</span>
+                    {% elif req.cgm_status == 2 %}
+                        <span class="badge bg-danger">Rejected</span>
+                    {% elif req.cgm_status == 3 %}
+                        <span class="badge bg-dark">Revert</span>
+                    {% else %}
+                        <span class="badge bg-warning">Pending</span>
+                    {% endif %}
+                {% else %}
+                    {% if req.gm_status == 1 %}
+                        <span class="badge bg-success">Approved</span>
+                    {% elif req.gm_status == 2 %}
+                        <span class="badge bg-danger">Rejected</span>
+                    {% elif req.gm_status == 3 %}
+                        <span class="badge bg-dark">Revert</span>
+                    {% else %}
+                        <span class="badge bg-warning">Pending</span>
+                    {% endif %}
+                {% endif %}
+                </td>
+
+                <!-- DGM onm Status -->
+                <td>
+                    {% if req.dgm_onm_status == 1 %}
+                        <span class="badge bg-success">Approved</span>
+                    {% elif req.dgm_onm_status == 2 %}
+                        <span class="badge bg-danger">Rejected</span>
+                    {% elif req.dgm_onm_status == 3 %}
+                        <span class="badge bg-dark">Revert</span>
+                    {% else %}
+                        <span class="badge bg-warning">Pending</span>
+                    {% endif %}
+                </td>
+                
+                
+
+                <td>
+                    {% if req.dgm_vig_status == 1 %}
+                        <span class="badge bg-success">Approved</span>
+                    {% elif req.dgm_vig_status == 2 %}
+                        <span class="badge bg-danger">Rejected</span>
+                    {% elif req.dgm_vig_status == 3 %}
+                        <span class="badge bg-dark">Revert</span>
+                    {% else %}
+                        <span class="badge bg-warning">Pending</span>
+                    {% endif %}
+                </td>
+
+
+
+
+
+<!-- Final Status -->
+<td> 
+    {% if req.final_puss_status == 1 %}
+        <button class="badge bg-success" disabled  style="width: 100px;">
+            Approved
+        </button>
+
+    {% elif req.final_puss_status == 2 %}
+        <button class="badge bg-danger " disabled style="width: 100px;">
+            Rejected
+        </button>
+
+    {% elif req.final_puss_status == 3 %}
+        <button class="badge bg-dark " disabled style="width: 100px;">
+            Reverted
+        </button>
+
+    {% else %}
+        <button class="badge bg-warning " disabled style="width: 100px;">
+            Pending
+        </button>
+    {% endif %}
+</td>
+
+
+                <!-- Action -->
+                   <td>
+                        <a href="{% url 'user_form_view' req.id %}" class="btn btn-sm btn-primary">
+                            View
+                        </a>
+                    </td>
+
+                    
+                </td>
+            </tr>
+
+            {% empty %}
+            <tr>
+                <td colspan="10" class="text-center">No Data Found</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+
+    </table>
+</div>
+
+{% endblock %}  

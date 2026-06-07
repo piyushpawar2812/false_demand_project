@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Consumer Portal</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            background: linear-gradient(135deg, #4f46e5, #3b82f6);
+            min-height: 100vh;
+        }
+
+        .login-card {
+            max-width: 420px;
+            margin: auto;
+            margin-top: 80px;
+            padding: 30px;
+            border-radius: 15px;
+            background: #fff;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        .form-control:focus {
+            border-color: #4f46e5;
+            box-shadow: 0 0 0 0.2rem rgba(79,70,229,.2);
+        }
+
+        .btn-primary {
+            background: #4f46e5;
+            border: none;
+        }
+
+        .btn-primary:hover {
+            background: #4338ca;
+        }
+
+        .logo {
+            font-weight: bold;
+            color: #4f46e5;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+    <div class="login-card">
+
+        <h3 class="text-center mb-3 logo">Consumer Portal</h3>
+        <p class="text-center text-muted mb-4">Login to your account</p>
+
+        <form method="POST" onsubmit="return validateForm()">
+            {% csrf_token %}
+
+            <div class="mb-3">
+                <label class="form-label">Login ID</label>
+                <input id="login_id" name="login_id" class="form-control" placeholder="Enter Login ID">
+                <small class="text-danger" id="login_error"></small>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Password</label>
+                <input id="password" name="password" type="password" class="form-control" placeholder="Enter Password">
+                <small class="text-danger" id="password_error"></small>
+            </div>
+
+            <button class="btn btn-primary w-100">Login</button>
+        </form>
+
+    </div>
+</div>
+
+<script>
+function validateForm() {
+    let valid = true;
+
+    let login = document.getElementById("login_id").value.trim();
+    let password = document.getElementById("password").value.trim();
+
+    document.getElementById("login_error").innerText = "";
+    document.getElementById("password_error").innerText = "";
+
+    if (login === "") {
+        document.getElementById("login_error").innerText = "Login ID is required";
+        valid = false;
+    }
+
+    if (password === "") {
+        document.getElementById("password_error").innerText = "Password is required";
+        valid = false;
+    }
+
+    if (password.length < 4 && password !== "") {
+        document.getElementById("password_error").innerText = "Password must be at least 4 characters";
+        valid = false;
+    }
+
+    return valid;
+}
+</script>
+
+</body>
+</html>
